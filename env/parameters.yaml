@@ -1,0 +1,11 @@
+adminUser:
+  password: vault:bellycurse/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: arcalos-admin@googlegroups.com
+  token: vault:bellycurse/pipelineUser:token
+  username: arcalos-bot
+prow:
+  hmacToken: vault:bellycurse/prow:hmacToken
+segmentWriteKey: vault:bellycurse:segmentWriteKey
