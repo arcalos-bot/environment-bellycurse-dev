@@ -7,7 +7,7 @@ dependencies:
   versionURL: https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.260
 - host: github.com
   owner: cb-kubecd
-  repo: gevans-golang01
-  url: https://github.com/cb-kubecd/gevans-golang01.git
+  repo: belly-golang
+  url: https://github.com/cb-kubecd/belly-golang.git
   version: ""
   versionURL: ""
