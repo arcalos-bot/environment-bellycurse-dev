@@ -3,4 +3,4 @@
 Dependency | Sources | Version | Mismatched versions
 ---------- | ------- | ------- | -------------------
 [cloudbees/jx-tenant-service](https://github.com/cloudbees/jx-tenant-service) |  | [0.0.260](https://github.com/cloudbees/jx-tenant-service/releases/tag/v0.0.260) | 
-[cb-kubecd/belly-golang](https://github.com/cb-kubecd/belly-golang.git) |  | []() | 
+[cb-kubecd/gevans-golang02](https://github.com/cb-kubecd/gevans-golang02.git) |  | []() | 
