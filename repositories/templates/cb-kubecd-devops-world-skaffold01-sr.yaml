@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: cb-kubecd
+    provider: github
+    repository: devops-world-skaffold01
+  name: cb-kubecd-devops-world-skaffold01
+spec:
+  description: Imported application for cb-kubecd/devops-world-skaffold01
+  httpCloneURL: https://github.com/cb-kubecd/devops-world-skaffold01.git
+  org: cb-kubecd
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: devops-world-skaffold01
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/cb-kubecd/devops-world-skaffold01.git
