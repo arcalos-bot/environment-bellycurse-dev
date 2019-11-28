@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: cb-kubecd
+    provider: github
+    repository: belly-golang
+  name: cb-kubecd-belly-golang
+spec:
+  description: Imported application for cb-kubecd/belly-golang
+  httpCloneURL: https://github.com/cb-kubecd/belly-golang.git
+  org: cb-kubecd
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: belly-golang
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/cb-kubecd/belly-golang.git

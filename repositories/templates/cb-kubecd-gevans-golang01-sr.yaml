@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: cb-kubecd
+    provider: github
+    repository: gevans-golang01
+  name: cb-kubecd-gevans-golang01
+spec:
+  description: Imported application for cb-kubecd/gevans-golang01
+  httpCloneURL: https://github.com/cb-kubecd/gevans-golang01.git
+  org: cb-kubecd
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: gevans-golang01
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/cb-kubecd/gevans-golang01.git
