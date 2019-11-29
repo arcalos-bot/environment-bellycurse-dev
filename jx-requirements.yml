@@ -1,6 +1,6 @@
 autoUpdate:
   enabled: true
-  schedule: 0 0 * * *
+  schedule: 0 * * * *
 bootConfigURL: https://github.com/cloudbees/arcalos-boot-config.git
 cluster:
   clusterName: bellycurse
