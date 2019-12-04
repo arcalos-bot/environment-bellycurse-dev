@@ -13,7 +13,7 @@ dependencies:
   versionURL: ""
 - host: github.com
   owner: cb-kubecd
-  repo: dwjw01
-  url: https://github.com/cb-kubecd/dwjw01.git
+  repo: dwjw2019-demo
+  url: https://github.com/cb-kubecd/dwjw2019-demo.git
   version: ""
   versionURL: ""

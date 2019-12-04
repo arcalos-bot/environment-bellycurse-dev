@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: cb-kubecd
+    provider: github
+    repository: dwjw2019-demo
+  name: cb-kubecd-dwjw2019-demo
+spec:
+  description: Imported application for cb-kubecd/dwjw2019-demo
+  httpCloneURL: https://github.com/cb-kubecd/dwjw2019-demo.git
+  org: cb-kubecd
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: dwjw2019-demo
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/cb-kubecd/dwjw2019-demo.git
