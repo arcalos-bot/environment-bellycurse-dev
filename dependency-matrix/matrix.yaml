@@ -12,8 +12,8 @@ dependencies:
   version: ""
   versionURL: ""
 - host: github.com
-  owner: garethjevans-test
-  repo: gevans01-dwjw
-  url: https://github.com/garethjevans-test/gevans01-dwjw.git
+  owner: cb-kubecd
+  repo: dwjw01
+  url: https://github.com/cb-kubecd/dwjw01.git
   version: ""
   versionURL: ""
