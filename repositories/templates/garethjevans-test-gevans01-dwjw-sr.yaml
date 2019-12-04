@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: garethjevans-test
+    provider: github
+    repository: gevans01-dwjw
+  name: garethjevans-test-gevans01-dwjw
+spec:
+  description: Imported application for garethjevans-test/gevans01-dwjw
+  httpCloneURL: https://github.com/garethjevans-test/gevans01-dwjw.git
+  org: garethjevans-test
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: gevans01-dwjw
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/garethjevans-test/gevans01-dwjw.git
